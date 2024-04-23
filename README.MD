@@ -1,0 +1,1 @@
+This project was for me to practice creating a responsive website, including media queries to best show the website on smaller devices
